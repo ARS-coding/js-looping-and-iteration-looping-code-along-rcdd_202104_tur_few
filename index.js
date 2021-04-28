@@ -8,3 +8,12 @@ function writeCards(arr, eventName) {
   }
   return empty;
 }
+
+function countDown(positiveInt) {
+  let i = positiveInt;
+  while (i >= 0) {
+    console.log(i);
+    i--;
+  }
+  
+}
