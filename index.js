@@ -15,5 +15,5 @@ function countDown(positiveInt) {
     console.log(i);
     i--;
   }
-  
+
 }
